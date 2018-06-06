@@ -1,11 +1,11 @@
-print("Hello World;")
-print("Hello Everybody;")
+print("Hello World")
+print("Hello Everybody")
 123
 456
 799
 800
 
 555
-print("Hello my dear friend;")
-print("Glad to see you;")
-print("Nice to meet you;")
+print("Hello my dear friend")
+print("Glad to see you")
+print("Nice to meet you")

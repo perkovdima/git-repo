@@ -6,3 +6,4 @@ print("Hello Everybody")
 800
 
 555
+print("Hello my dear friend")
